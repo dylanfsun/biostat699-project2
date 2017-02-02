@@ -1,0 +1,7 @@
+---
+title: "readme"
+author: "Dylan Sun"
+date: "2/2/2017"
+output: html_document
+---
+Test readme 
